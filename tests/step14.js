@@ -31,6 +31,10 @@
 
   Finally, when the audio tag starts playing, the component's
   `isPlaying` property should be set to true.
+
+  The `testComponent` test helper will create a component in isolation and
+   exercise it. In order for your component to work in isolation, it must use
+   its `src` property as the value of the audio tag's `src` attribute.
 */
 
 step(14, "The Audio Tag Goes to 11");
