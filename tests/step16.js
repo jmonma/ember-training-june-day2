@@ -3,9 +3,6 @@
   currently playing song. If you click on it, it should hide the total duration
   and show the time remaining.
 
-  Remember, if you want to reference the duration in your template, you should
-  use `view.duration`.
-
   By now, this should be a pretty simple feature for you to implement. Just use
   the concepts you put to use yesterday.
 
